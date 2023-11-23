@@ -1,0 +1,23 @@
+{
+  "name": "node-complete-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackOliveira1/Node-complete-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackOliveira1/Node-complete-guide/issues"
+  },
+  "homepage": "https://github.com/JackOliveira1/Node-complete-guide#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
